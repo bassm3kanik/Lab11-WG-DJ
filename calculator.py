@@ -1,3 +1,6 @@
+# https://github.com/bassm3kanik/Lab11-WG-DJ/tree/main
+# Partner 1: Daniel Jinks
+# Partner 2: Wolfgang Gutierrez
 """
 calculator.py
 - Defines functions used to create a simple calculator
